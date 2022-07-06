@@ -20,7 +20,7 @@ h1 {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding-left: 5%;
-    padding-right: 5%;
+    padding-right: 8%;
     border-radius: 30px;
     font-weight: 700;
 }
@@ -37,4 +37,11 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
+}
+
+.Dream-Big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
