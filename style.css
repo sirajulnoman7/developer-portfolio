@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1 {
@@ -17,10 +18,16 @@ h1 {
 
 .link-colour {
     text-decoration: none;
-    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
     padding-left: 5%;
     padding-right: 5%;
     border-radius: 30px;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .half-weth img {
