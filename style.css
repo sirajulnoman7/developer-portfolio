@@ -16,6 +16,8 @@ h1 {
     padding: 5%;
 }
 
+
+
 .link-colour {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -44,8 +46,28 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+
 }
 
 .h3-color {
     color: chocolate;
+}
+
+.expirences-part {
+    width: 38%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    border-radius: 30px;
+}
+
+.exprience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+h2 {
+    font-size: 40px;
 }
