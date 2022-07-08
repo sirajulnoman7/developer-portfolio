@@ -54,20 +54,35 @@ h1 {
 }
 
 .expirences-part {
-    width: 38%;
+    width: 35%;
     box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 2%;
-    border-radius: 30px;
+    border-radius: 26px;
+
 }
+
+
 
 .exprience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+
 }
 
 h2 {
     font-size: 40px;
+}
+
+#Full-Stack-Web-Developer {
+    border-left: 10px solid red;
+}
+
+#Baby-Web-Developer {
+    border-left: 10px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
